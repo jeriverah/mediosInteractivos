@@ -11,4 +11,6 @@ Ejercicios de la clase diseño en medios interactivos
 
 6.(https://editor.p5js.org/je.riverah/sketches/BkFgujBY7)
 
+Juego. (https://editor.p5js.org/je.riverah/sketches/HkQm6GBnm)
+
 
